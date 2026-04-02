@@ -22,5 +22,5 @@ void input()
             cout << "\nMaksimal panjang array adalah 20";
         }
     }
-
+}
     
